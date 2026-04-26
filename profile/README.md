@@ -1,12 +1,15 @@
 <div align="center">
 
+<img src="./assets/01-hero.png" alt="VEKRON — Detecção a 5 km. Classificação em 1 segundo. Neutralização cirúrgica." width="100%" />
+
 # **VEKRON**
 
 ### Defense technology, built in Brazil. For the LATAM theater.
 
-> *Tecnologia de defesa, construída no Brasil. Para o teatro LATAM.*
+> *Tecnologia de defesa, construída no Brasil.<br>
+> Para o teatro LATAM.*
 
-[**vekron.ai**](https://vekron.ai)
+**[vekron.ai](https://vekron.ai)**
 
 </div>
 
@@ -29,6 +32,20 @@ We focus on the four problems that matter to the operator:
 - **Fleet management.** Distributed deployments stay coherent across
   unreliable networks.
 
+---
+
+## Where VEKRON operates
+
+<div align="center">
+
+<img src="./assets/02-onde-opera.png" alt="Operating sectors: airports, agribusiness, energy + ports, military operations, frontier policing, private security." width="100%" />
+
+</div>
+
+High-stakes airspace, from civilian perimeter to operational deployment.
+
+---
+
 ## Why VEKRON
 
 - **Sovereignty.** Engineered for environments where foreign-cloud
@@ -39,11 +56,15 @@ We focus on the four problems that matter to the operator:
   operators, for Brazilian customers and partners — with the export
   posture to support the broader region.
 
+---
+
 ## Stage
 
 Early-stage, pre-pilot. Engineering team build-out is in progress.
 First paid pilot deployment is scheduled for the LATAM market;
 procurement and pilot conversations are active.
+
+---
 
 ## Contact
 
